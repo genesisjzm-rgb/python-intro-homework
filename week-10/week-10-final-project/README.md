@@ -11,7 +11,7 @@
 
 ### Chart Description & Main XTakeaway
 * **What the chart shows:** A histogram that plots out how many books from the search results were published in different years.
-* **Main takeaway:** It makes it really easy to see at a glance whether a search term brings up mostly or classics or more modern books, showing the overall time spread of the results.
+* **Main takeaway:** It makes it really easy to see at a glance whether a search term brings up mostly r classics or more modern books, showing the overall time spread of the results.
 
 ### Why This Chart Type?
 * **Chart Type:** Histogram
@@ -21,3 +21,6 @@
 1. Install the required libraries:
    ```bash
    pip install -r requirements.txt
+
+
+https://1drv.ms/f/c/fd03fe4db084d395/IgD19CXudnHlRoxCnvOGHMwhAesEsPr854uIY66T_2vMAVE?e=OschTe 
